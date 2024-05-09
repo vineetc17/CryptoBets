@@ -1,7 +1,7 @@
 
 ---
 
-# Cryptography Project
+# CryptoBets
 
 This is a cryptographic project that demonstrates blockchain technology and betting functionalities.
 
